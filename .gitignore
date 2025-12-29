@@ -1,0 +1,9 @@
+# Visual Studio / C# generated files
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+.vs/
